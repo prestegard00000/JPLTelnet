@@ -15,7 +15,7 @@ func main() {
 
 	response, response_error = communications.Telnet_connect(website, portnumber)
 
-	if(response_error == "") {
+	if(response_error != nil) {
 	
 		fmt.Sprintf("%s",response)
 	
