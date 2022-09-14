@@ -1,4 +1,4 @@
-module github.com/prestegard00000/JPLTelnet_go
+module github.com/prestegard00000/JPLTelnet_go v0.0.0
 
 go 1.18
 
